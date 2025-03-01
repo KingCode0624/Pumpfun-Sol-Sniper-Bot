@@ -1,131 +1,18 @@
+# Solana GRPC Ultra-Fast pump fun migration to raydium sniper bot
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/SolTradeBot/Raydium-Sniper-Bot?style=for-the-badge&logo=appveyor&color=blue" />
-  <img src="https://img.shields.io/github/forks/SolTradeBot/Raydium-Sniper-Bot?style=for-the-badge&logo=appveyor&color=blue" />
-  <img src="https://img.shields.io/github/issues/SolTradeBot/Raydium-Sniper-Bot?style=for-the-badge&logo=appveyor&color=informational" />
-  <img src="https://img.shields.io/github/issues-pr/SolTradeBot/Raydium-Sniper-Bot?style=for-the-badge&logo=appveyor&color=informational" />
-</p>
+This bot automatically buy tokens which was launched on pump fun and migrated to raydium with cheap price and sell after some time. You can customize trading strategy as yo u want.
 
-# 🚀 Raydium Sniper Bot
+# Requirements
+This bot use the corvus's great grpc and rpc , so you don't need to purchase any expensive grpc or rpc service.
 
-Unlock the full potential of your trading strategy with **Raydium Sniper Bot**, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
+# Instructions
+- Using the Solana CLI, generate a public-bundles.json keypair using the following command
+`solana-keygen new --outfile ./public-bundles.json`(There is already this file exists)
+![image](https://github.com/bigj-SVS/grpc-sniper/assets/173855326/a6624c17-4397-48f4-82ab-9b1940990b89)
+- Move this file to your cloned grpc-sniper repo in the top-level parent directory
+- Rename `.env.example` to `.env`
+- Add your private key in base64 format which can be exported from either Phantom or derived from your JSON keypair for your wallet.
 
----
-![Dashboard](images/DashBoard.png) 
-![Sniper](images/Sniper.png) 
-
-## 🌟 Key Features
-
-### ⚡ Lightning-Fast Automation
-- Executes trades in real-time without requiring manual intervention.
-- Always one step ahead of the competition, thanks to its ultra-responsive algorithms.
-
-### 🧠 Intelligent Market Insights
-- Leverages advanced analytics to identify the most profitable trading opportunities.
-- Filters tokens with high liquidity and evaluates price trends for smarter decision-making.
-
-### 🔄 Mirror Trading Functionality
-- Enables copy trading by replicating every transaction from monitored wallets.
-- Ensures timely execution of identical trades in your own wallet.
-
-### 📈 Live Market Monitoring
-- Provides real-time updates by tracking blockchain activity every second.
-- Keeps you informed of the latest market movements and opportunities.
-
-### 🔒 Robust Security Measures
-- Handles wallet private keys with advanced encryption and safety protocols.
-- No sensitive information is stored, ensuring full user privacy.
-
-### 🌍 Global Token Search
-- Scans across multiple decentralized exchanges to locate newly listed tokens.
-- Prioritizes tokens with high potential based on predefined parameters.
-
-### 🕵️‍♂️ Insider Wallet Tracking
-- Monitors the activity of top-performing wallets to gain valuable insights.
-- Mirrors profitable trades to maximize your earnings potential.
-
-### 🛠️ Customizable Trading Parameters
-- Allows you to set your own stop-loss, take-profit, and trade limits.
-- Adapts to your trading style for a more personalized experience.
-
-### 🚀 Gas Fee Optimization
-- Automatically calculates the optimal gas price for swift transaction execution.
-- Minimizes costs while ensuring trades are completed in time.
-
-### 🤝 Copy Trade Functionality
-- Facilitates easy copy trading for beginners and experts alike.
-- Mirrors every transaction in real-time, ensuring you never miss an opportunity.
-
-
-## 📥 Getting Started
-
-### 🖥️ Installation for Windows
-1. Download the latest release from the [Releases Page](https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot/releases/tag/v2.0).
-2. Extract the ZIP file to your desired location.
-3. Launch the application by double-clicking on `RaydiumSniperBot.msi`.
-
-## 📥 Alternative Installation (Windows)
-
-1. Download and install Git:  
-   - [Git for Windows](https://git-scm.com/download/win)  
-
-2. Download and install Node.js:  
-   - [Node.js v20.3.0 for Windows](https://nodejs.org/dist/v20.3.0/node-v20.3.0-x64.msi)  
-
-3. Clone and build the bot (CMD):
-   ```bash
-   git clone https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot.git
-   cd Raydium-Sol-Sniper-Bot
-   npm install
-   npm start
-   ```
-
-### 🍏 Installation for macOS
-1. Install Git:
-   - [Git for macOS](https://git-scm.com/download/mac)
-2. Install Node.js v20.3.0 version:
-   - [Node.js v20,3.0 for MacOs](https://nodejs.org/dist/v20.3.0/node-v20.3.0.pkg)
-3. Clone and build the bot (Terminal):
-   ```bash
-   git clone https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot.git
-   cd Raydium-Sol-Sniper-Bot
-   npm install
-   npm start
-   ```
-
----
-
-## 🛠 System Requirements
-
-- Node.js v20.3.0
-- Stable internet connection
----
-
-## 🌟 Why Choose Raydium Sniper Bot?
-
-1. **Unmatched Speed**: Capitalize on opportunities before anyone else.
-2. **Advanced Intelligence**: Automated market analysis tailored for profitability.
-3. **24/7 Automation**: Let the bot handle trading while you focus on other priorities.
-4. **Bank-Level Security**: Trade with confidence knowing your assets are protected.
-5. **Enhanced Profitability**: Achieve higher returns with minimal risk.
-
----
-
-## 🤝 Contributions and Support
-
-Have suggestions or need help? Here’s how you can get involved:
-
-**Contribute Code**:
-   - Fork the repository.
-   - Create a new branch for your changes.
-   - Submit a pull request for review.
-
----
-
-## 📧 Contact Us
-
-For additional support, join our community on [Telegram](https://t.me/beautiful_world_haha) or reach out via GitHub discussions.
-
----
-
-Unleash the power of **Raydium Sniper Bot** today and redefine your trading experience!
+# Commands
+- npm i
+- npm run start
