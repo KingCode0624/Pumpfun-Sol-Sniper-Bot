@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/github/issues-pr/SolTradeBot/Raydium-Sniper-Bot?style=for-the-badge&logo=appveyor&color=informational" />
 </p>
 
-# 🚀 Raydium Sniper Bot
+# 🚀 Solana Pump fun Sniper Bot
 
-Unlock the full potential of your trading strategy with **Raydium Sniper Bot**, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
+Unlock the full potential of your trading strategy with **Solana pump fun Sniper Bot**, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
 
 ---
 ![Dashboard](images/DashBoard.png) 
@@ -81,12 +81,12 @@ Unlock the full potential of your trading strategy with **Raydium Sniper Bot**, 
 
 ## 🛠 System Requirements
 
-- Python 3.7.9
+- Node.js v20.3.0
 - Stable internet connection
 
 ---
 
-## 🌟 Why Choose Raydium Sniper Bot?
+## 🌟 Why Choose Solana pump fun Sniper Bot?
 
 1. **Unmatched Speed**: Capitalize on opportunities before anyone else.
 2. **Advanced Intelligence**: Automated market analysis tailored for profitability.
