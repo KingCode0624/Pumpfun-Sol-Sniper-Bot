@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/issues-pr/SolTradeBot/Raydium-Sniper-Bot?style=for-the-badge&logo=appveyor&color=informational" />
 </p>
 
-# 🚀 Solana Pump fun Sniper Bot
+# 🚀 Geyser Grp Solana Pump fun Sniper Bot
 
 Unlock the full potential of your trading strategy with **Solana pump fun Sniper Bot**, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
 
