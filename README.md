@@ -8,7 +8,7 @@
 
 # 🚀 Geyser Grp Solana Pump fun Sniper Bot
 
-Unlock the full potential of your trading strategy with **Solana pump fun Sniper Bot**, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
+The Solana Pump Fun Sniper Bot is an advanced automated trading tool designed to detect and capitalize on potential meme coin pump opportunities within the Solana ecosystem. This bot is specifically created to operate with the Pump fun service, identifying tokens with explosive growth potential and executing rapid buys to maximize profits during market pump events it is also built to Unlock the full potential of your trading strategy with **Solana pump fun Sniper Bot**, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
 
 ---
 ![Dashboard](images/DashBoard.png) 
